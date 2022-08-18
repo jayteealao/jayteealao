@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interest](#interest)
 
 </div>
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
