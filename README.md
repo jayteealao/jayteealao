@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center" >Alao Adedamola Taiwo</h1>
+
+
+<div align='center'>
+
+#### Contact
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/adedamola-alao-88b97813b/)
+[![Email]](mailto:jayteealao@gmail.com)
+[![GitHub Profile]](https://github.com/jayteealao)
+
+
+#### Navigation
+
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interest](#interest)
+
+</div>
