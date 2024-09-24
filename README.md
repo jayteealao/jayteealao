@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 | Project/GitHub     | Details                                                                     | Tech                           | Additional Links |
 | ------------------ | --------------------------------------------------------------------------- | ------------------------------ | ---------------- |
-| **Tassel**         | An Android app for saving and syncing bookmarks across devices(wip)| Android, Kotlin, Jetpack Compos| [Github](https://github.com/ooduola/tassel)|
+| **Tassel**         | An Android app for saving and syncing bookmarks across devices(wip)| Android, Kotlin, Jetpack Compos| [Github](https://github.com/jayteealao/tassel)|
 | **FindHealth**     | A collaborative project: An android app that helps to find the closest available healthcare facility. | Android, Kotlin, Google Maps, Room, DataBinding.           | [Github](https://github.com/GADS-Community-Project-AG01/FindHealth)|
 
 ## Technical Knowledge
